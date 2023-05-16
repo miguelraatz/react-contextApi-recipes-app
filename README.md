@@ -62,12 +62,6 @@ Além disso, o layout tem como foco dispositivos móveis, em função disso, foi
 
 ---
 
-## Demonstração da aplicação
-
-[Aqui](https://www.linkedin.com/posts/thiago-dioria-martins_css-desenvolvimentoweb-devs-activity-6959607508952862720-MVsP?utm_source=share&utm_medium=member_desktop) é possível ver uma pequena demonstração da Aplicação.
-
----
-
 ## Protótipo do projeto
 
 No desenvolvimento também foi usado a ferramenta "Figma" para analisar mais detalhadamente as "views" da apliacação;
@@ -85,7 +79,7 @@ O protótipo foi usado como base para o desenvolvimento do projeto.
 ## ANTES DE INICIALIZAR A APLICAÇÃO:
 
 1. Clone o repositório
-  * `git clone git@github.com:THIAGOMARTINS367/Trybe-project-recipes-app.git`
+  * `git clone git@github.com:miguelraatz/react-contextApi-recipes-app.git`
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd Trybe-project-recipes-app`
 
