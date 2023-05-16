@@ -81,14 +81,14 @@ O protótipo foi usado como base para o desenvolvimento do projeto.
 1. Clone o repositório
   * `git clone git@github.com:miguelraatz/react-contextApi-recipes-app.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd react-contextApi-recipes-app.git`
+    * `cd react-contextApi-recipes-app`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
     * `npm install`
   * Inicialize o projeto:
     * `npm start` (uma página de Login deve abrir no seu navegador)
-    * ⚠️ Lembrando que já deve se estar dentro da pasta do projeto `Trybe-project-recipes-app` ⚠️
+    * ⚠️ Lembrando que já deve se estar dentro da pasta do projeto `react-contextApi-recipes-app` ⚠️
 ---
 
 ## Linter
