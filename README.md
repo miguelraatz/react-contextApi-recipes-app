@@ -27,7 +27,6 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 
 - [Observações técnicas](#observações-técnicas)
   - [Rotas](#rotas)
-  - [Biblioteca clipboard-copy](#biblioteca-clipboard-copy)
 
 ---
 
