@@ -81,7 +81,7 @@ O protótipo foi usado como base para o desenvolvimento do projeto.
 1. Clone o repositório
   * `git clone git@github.com:miguelraatz/react-contextApi-recipes-app.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd Trybe-project-recipes-app`
+    * `cd react-contextApi-recipes-app.git`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
